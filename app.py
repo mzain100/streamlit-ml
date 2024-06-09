@@ -16,7 +16,6 @@ desc_temp = """
             #### Data Source
             - https://www.kaggle.com/code/tawfikelmetwally/census-income-analysis-and-modeling/input
             #### App Content
-	    - Home
             - Machine Learning
             """
 
