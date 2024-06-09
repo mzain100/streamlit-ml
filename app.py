@@ -17,7 +17,8 @@ desc_temp = """
             - https://www.kaggle.com/code/tawfikelmetwally/census-income-analysis-and-modeling/input
             #### App Content
             - Machine Learning
-	    #### Models: Random Forest
+	    #### Models
+     	    Random Forest
             """
 
 def main():
